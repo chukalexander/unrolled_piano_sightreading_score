@@ -7,6 +7,10 @@ The following dataset is inspired by the MSMD dataset created by Matthias Dorfer
 MSMD Dataset: 
 - https://github.com/CPJKU/msmd?tab=readme-ov-file
 
+Feel free to contact author for any questions and enquries:
+alexchuk@gmail.com
+
+
 ## Aligned sheet music and audio (spectrogram) aligned with MIDI and image coordinates
 <img width="731" alt="image" src="https://github.com/chukalexander/unrolled_piano_sightreading_score/assets/117527004/34e5a5dc-ed83-4833-b2cb-055aafe41847">
 
